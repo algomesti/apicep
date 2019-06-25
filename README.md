@@ -78,7 +78,7 @@ env.php
 - Método:
 	- GET 
 - URI
-	- /api-cep/get/<cep>/
+	- /api-cep/get/(cep)/
 - Parametros:
 	- Nenhum
 - Exemplos:
